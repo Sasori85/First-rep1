@@ -1,0 +1,27 @@
+body {
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+    text-decoration: wavy;
+    text-size-adjust: 70em;
+    font-weight: 200;
+}
+
+h2 {
+    text-align: center;
+    color: crimson;
+    text-decoration: dotted;
+}
+
+p.one{
+    color: rgb(255, 0, 0);
+    text-align: center;
+}   
+
+p.two {
+    color: aqua;
+}
